@@ -24,7 +24,7 @@
 
 # Conviction
 time for reflection in silence
-do [ -u bt ] :
+do [ -u bt ]
    set tles in;
    test -s "my convictions";
    make -s me
@@ -33,5 +33,3 @@ do [ -u bt ] :
 done;
 [ n -ot an ]
 echo chamber
-
-
